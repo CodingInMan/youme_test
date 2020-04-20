@@ -11,7 +11,7 @@ class youmeApp extends StatelessWidget {
         title:'YoumeTest',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-          primaryColor: Colors.blue
+            primaryColor: Colors.blue
         ),
         home: ListPage(),
       ),
